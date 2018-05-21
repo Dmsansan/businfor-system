@@ -1,0 +1,2 @@
+# BusInfoSystem
+基于maven项目管理软件配置的SSM框架的车辆信息管理软件
