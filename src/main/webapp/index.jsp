@@ -340,14 +340,14 @@
                     </div> 
         </div>
         <div position="center" id="framecenter"> 
-            <div tabid="home" title="我的主页" style="height:300px" >
+            <div tabid="home" title="首页" style="height:300px" >
                 <iframe frameborder="0" name="home" id="home" src="lib/welcome.htm"></iframe>
             </div> 
         </div> 
         
     </div>
     <div  style="height:32px; line-height:32px; text-align:center;">
-            Copyright © 2011-2014 www.ligerui.com
+            Copyright © 2016-2017 Sisansan
     </div>
     <div style="display:none"></div>
 </body>
