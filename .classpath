@@ -29,5 +29,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/SSH_001/WebContent/WEB-INF/lib/spring-web-4.3.10.RELEASE.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

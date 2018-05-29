@@ -11,6 +11,12 @@ import com.sansan.common.Response;
 @RestController
 @RequestMapping("/system")
 public class SystemController {
+	
+	/**
+	 * 登录
+	 * @param user
+	 * @return
+	 */
 	@RequestMapping(value = "/login", method = RequestMethod.POST, produces = { "application/json;charset=UTF-8" })
 	public Response login(@RequestBody User user){
 		System.out.println(user.getUserName());

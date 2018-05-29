@@ -63,8 +63,7 @@
     <mvc:resources mapping="/lib/**" location="/lib/" />  
     <mvc:resources mapping="/css/**" location="/css/" />  
     <mvc:resources mapping="/images/**" location="/images/" /> 
-
-
+	
     <!-- 国际化配置 -->
     <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource"> 
         <property name="basename"> 
@@ -83,5 +82,5 @@
              </list>    
          </property>    
      </bean>  
-
+   
 </beans> 
