@@ -3,6 +3,7 @@ package Filter;
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
 import java.io.IOException;
 
 public class SimpleCORSFilter implements Filter {
@@ -37,4 +38,5 @@ public class SimpleCORSFilter implements Filter {
         isCross = isCrossStr.equals("true") ? true : false;
         System.out.println(isCrossStr);
     }
+
 }
