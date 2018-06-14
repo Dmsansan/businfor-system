@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.sansan.mapper.UserMapper">
-<select id="getListUser" resultType="com.sansan.bean.system.User">
-	SELECT * FROM user
-</select>
+	<select id="getListUser" resultType="com.sansan.bean.system.User">
+		SELECT userID,userName,passWord,sex,age,address,phone,name,DATE_FORMAT(regTime,"%Y-%m-%d %H:%i:%s") regTime FROM user
+	</select>
+
+	<select id="getUserByUserName" parameterType="java.lang.String" resultType="com.sansan.bean.system.User">
+		SELECT * FROM user WHERE userName=#{userName}
+	</select>
+
+	<!--新增用户-->
+	<insert id="insertUser" parameterType="com.sansan.bean.system.User">
+		INSERT INTO user
+		(userName,passWord,name,sex,age,address,phone,regTime)
+			VALUES
+		(#{userName},#{passWord},#{name},#{sex},#{age},#{address},#{phone},now())
+	</insert>
+    <!--编辑用户-->
+	<update id="editUser" parameterType="com.sansan.bean.system.User">
+		UPDATE user SET userName=#{userName},passWord=#{passWord},name=#{name},sex=#{sex},age=#{age},address=#{address},phone=#{phone}
+		WHERE userID=#{userID}
+	</update>
+	<!--根据用户ID获取用户信息-->
+	<select id="getUserByUserID" parameterType="java.lang.Integer" resultType="com.sansan.bean.system.User">
+	  SELECT * FROM user WHERE userID=#{userID}
+    </select>
+	<!--删除用户-->
+	<delete id="deleteUser" parameterType="java.lang.Integer">
+		delete  from  user where  userID=#{userID}
+	</delete>
 </mapper>
