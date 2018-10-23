@@ -107,8 +107,15 @@
         <artifactId>spring-test</artifactId>  
         <version>${spring.version}</version>  
     </dependency>
-    
-    <!-- mybatis核心包 -->  
+
+      <dependency>
+          <groupId>javax.servlet</groupId>
+          <artifactId>javax.servlet-api</artifactId>
+          <version>4.0.1</version>
+          <scope>provided</scope>
+      </dependency>
+
+      <!-- mybatis核心包 -->
     <dependency>  
         <groupId>org.mybatis</groupId>  
         <artifactId>mybatis</artifactId>  

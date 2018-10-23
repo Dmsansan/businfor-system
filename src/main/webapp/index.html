@@ -1,0 +1,69 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>单点登录</title>
+</head>
+<body>
+<form class="layui-form" action="">
+    <div class="layui-form-item">
+        <label class="layui-form-label">账号</label>
+        <div class="layui-input-block">
+            <input type="text" name="userName" lay-verify="userName" autocomplete="off" placeholder="请输入账号" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label">密码</label>
+        <div class="layui-input-block">
+            <input type="text" name="passWord" lay-verify="passWord" autocomplete="off" placeholder="请输入密码" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button class="layui-btn" lay-submit="" lay-filter="demo1">立即提交</button>
+        </div>
+    </div>
+</form>
+<script src="./layui/layui.js"></script>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js "></script>
+<script>
+    layui.use(['form'], function(){
+        var form = layui.form;
+
+
+
+        //自定义验证规则
+        form.verify({
+            userName: function(value){
+                if(value.length < 6){
+                    return '账号必须要6位';
+                }
+            }
+            ,passWord: [/(.+){6,12}$/, '密码必须6到12位']
+
+        });
+
+        //监听提交
+        form.on('submit(demo1)', function(data){
+            $.post("http://localhost:8080/system/login",JSON.stringify(data.field),function(res){
+                console.log(res);
+                if(res.meta.success == true){
+                    layer.msg(res.meta.message, {time: 2000});
+                    // setTimeout(window.location.href="system/user",2000);
+                }else{
+                    layer.msg(res.meta.message, {time: 2000});
+                }
+            },'json');
+            return false;
+        });
+
+
+
+
+    });
+</script>
+</body>
+</html>
