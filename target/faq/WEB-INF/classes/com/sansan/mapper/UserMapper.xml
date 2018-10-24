@@ -29,4 +29,8 @@
 	<delete id="deleteUser" parameterType="java.lang.Integer">
 		delete  from  user where  userID=#{userID}
 	</delete>
+	<!--获取用户密码-->
+	<select id="getUserPassWord" parameterType="java.lang.String" resultType="java.lang.String">
+	  SELECT passWord FROM user WHERE userName=#{userName}
+    </select>
 </mapper>

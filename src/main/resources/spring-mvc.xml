@@ -60,7 +60,7 @@
     <context:annotation-config/>
     <!-- 静态资源处理 -->
     <mvc:resources mapping="/layui/**" location="/WEB-INF/static/layui/" />
-
+    <mvc:resources mapping="/frame/**" location="/WEB-INF/static/frame/" />
     <!-- 国际化配置 -->
     <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource"> 
         <property name="basename"> 

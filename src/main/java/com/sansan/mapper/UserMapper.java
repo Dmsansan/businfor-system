@@ -46,4 +46,7 @@ public interface UserMapper {
 	 * @return
 	 */
 	int deleteUser(Integer userID);
+
+	//查询用户密码
+	String getUserPassWord(String userName);
 }
