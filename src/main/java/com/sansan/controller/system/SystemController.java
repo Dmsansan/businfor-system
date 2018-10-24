@@ -26,8 +26,8 @@ public class SystemController {
 	 * @param user
 	 * @return
 	 */
-	@RequestMapping(value = "/login", method = RequestMethod.POST, produces = { "application/json;charset=UTF-8" })
-	public Response login(User user){
+	@RequestMapping(value = "/doLogin", method = RequestMethod.POST, produces = { "application/json;charset=UTF-8" })
+	public Response doLogin(User user){
 		boolean flag = systemService.checkUserInfo(user);
 		if(flag){
 			return new Response().success("登陆成功");
@@ -38,6 +38,21 @@ public class SystemController {
 	}
 
 	/**
+	 * 用户注册操作
+	 * @param user
+	 * @return
+	 */
+	@RequestMapping(value = "/doRegister", method = RequestMethod.POST, produces = {"application/json;charset=UTF-8"})
+	public Response doRegister(User user){
+		user.setPassWord("123456");
+		boolean flag = systemService.register(user);
+		if(flag){
+			return new Response().success("注册成功");
+		}else{
+			return new Response().failure("注册失败");
+		}
+	}
+	/**
 	 * 登录成功首页
 	 * @return
 	 */
@@ -46,4 +61,21 @@ public class SystemController {
 		return new ModelAndView("index");
 	}
 
+	/**
+	 * 注册页面
+	 * @return
+	 */
+	@RequestMapping(value = "/register")
+	public ModelAndView register(){
+		return new ModelAndView("register");
+	}
+
+	/**
+	 * 登录页面
+	 * @return
+	 */
+	@RequestMapping(value = "/login")
+	public ModelAndView loginView(){
+		return new ModelAndView("login");
+	}
 }

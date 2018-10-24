@@ -7,4 +7,7 @@ import javax.xml.ws.ServiceMode;
 public interface SystemService {
     //判断用户登录信息
     public boolean checkUserInfo(User user);
+
+    //用户注册
+    public boolean register(User user);
 }

@@ -23,4 +23,13 @@ public class SystemServiceImpl implements SystemService {
         }
         return false;
     }
+
+    @Override
+    public boolean register(User user) {
+        int res = userMapper.insertUser(user);
+        if(res > 0){
+            return true;
+        }
+        return false;
+    }
 }
