@@ -7,7 +7,7 @@
     <!-- Spring和mybatis的配置文件 -->
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>classpath:spring-mybatis.xml</param-value>
+        <param-value>classpath:com/sansan/mapper/spring-mybatis.xml</param-value>
     </context-param>
 
    <!-- 跨域请求 -->  

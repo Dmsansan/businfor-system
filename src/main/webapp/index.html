@@ -53,7 +53,7 @@
                 console.log(data.field);
                 if(res.meta.success == true){
                     layer.msg(res.data, {time: 2000});
-                    setTimeout(window.location.href="index",2000);
+                    setTimeout(window.location.href="system/index",2000);
                 }else{
                     layer.msg(res.meta.message, {time: 2000});
                 }
