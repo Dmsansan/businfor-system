@@ -7,296 +7,229 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262fef9a-a1d0-4291-bcb9-470877b7188d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/VSWorkspaceState.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/beginner_admin/v15/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/config/applicationhost.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/slnx.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/auxiliar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/begtable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/btable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/city.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/cop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/begtable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/btable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/css/table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/area_data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/btable_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/laytpl_laypage_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/nav.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/nav_content.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/nav_member.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/icheck.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/images/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/images/logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/images/xx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/area.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/baajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/begtable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/btable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/city.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/paging.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/validator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/paging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/_all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/aero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/flat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/flat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/flat@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/orange.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/pink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/flat/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/futurico/futurico.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/futurico/futurico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/futurico/futurico@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/icheck.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/_all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/aero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/line.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/line@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/orange.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/pink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/line/yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/_all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/aero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/minimal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/minimal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/minimal@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/orange.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/pink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/minimal/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/polaris/polaris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/polaris/polaris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/polaris/polaris@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/_all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/aero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/aero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/aero@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/blue@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/grey@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/orange.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/pink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/pink@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/purple@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/red@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/square.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/square@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/icheck/square/yellow@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/laydate/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/laydate/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/dest/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/dest/layui.mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/lib/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/modules/icheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/plugins/layui/modules/pjax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/temp/edit-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/neusoft.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/Contails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/NavTal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/controller/menu/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/service/menu/MenuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sansan/service/menu/impl/MenuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/fly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/layui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/mayun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/userface1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/userface2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/userface3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/userface4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/userface5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/images/wechat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/bodyTab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/cacheUserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/alipay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/face.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/fly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/layui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/login_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/mayun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/userface1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/userface2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/userface3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/userface4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/userface5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/images/wechat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/bodyTab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/cacheUserInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/address.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/images.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/linkList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/linkLogo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/logs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/navs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/newsImg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/newsList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/systemParameter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/userGrade.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/userList.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/json/userface.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/doc/addressDoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/doc/bodyTabDoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/doc/navDoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/img/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/img/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/login/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/news/newsAdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/news/newsAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/news/newsList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/news/newsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/basicParameter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/basicParameter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/linkList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/linkList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/linksAdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/logs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/systemSetting/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/changePwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userAdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userGrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/layuicms2.0/page/user/userList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4J.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4J.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4J.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4J.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/faq.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/classes/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/classes/log4J.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq/WEB-INF/classes/log4J.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq/WEB-INF/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/faq/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/faq/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -312,51 +245,59 @@
     <session id="669200556">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="config" value="1" />
-          <entry key="html" value="11" />
-          <entry key="java" value="25" />
-          <entry key="properties" value="5" />
-          <entry key="xml" value="11" />
+          <entry key="css" value="2" />
+          <entry key="html" value="18" />
+          <entry key="java" value="50" />
+          <entry key="js" value="10" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="11" />
-          <entry key="JAVA" value="25" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="18" />
+          <entry key="JAVA" value="50" />
+          <entry key="JavaScript" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="5" />
-          <entry key="XML" value="11" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="11" />
-          <entry key="html" value="90" />
-          <entry key="java" value="732" />
-          <entry key="properties" value="1" />
-          <entry key="txt" value="66" />
-          <entry key="xml" value="576" />
+          <entry key="html" value="161" />
+          <entry key="java" value="2648" />
+          <entry key="js" value="102" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="97" />
+          <entry key="xml" value="1238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="90" />
-          <entry key="JAVA" value="732" />
-          <entry key="PLAIN_TEXT" value="77" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="576" />
+          <entry key="HTML" value="161" />
+          <entry key="JAVA" value="2648" />
+          <entry key="JavaScript" value="102" />
+          <entry key="PLAIN_TEXT" value="108" />
+          <entry key="Properties" value="2" />
+          <entry key="SQL" value="21" />
+          <entry key="XML" value="1217" />
         </counts>
       </usages-collector>
     </session>
@@ -364,76 +305,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/menu/MenuController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/config/applicationhost.config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/swagger/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1317">
-              <caret line="218" column="49" selection-start-line="218" selection-start-column="49" selection-end-line="218" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/config/SwaggerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="312">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -442,19 +317,99 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/login.html">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="247">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/DriverMapper.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/nav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="418">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/layuicms2.0/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="130" column="62" lean-forward="true" selection-start-line="129" selection-start-column="4" selection-end-line="130" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="97" column="2" lean-forward="true" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/NavTal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+              <folding>
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -464,10 +419,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>varchar</find>
+      <find>integer</find>
+      <find>timestamp</find>
+      <find>images</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>VARCHAR</replace>
+      <replace>INTEGER</replace>
+      <replace>TIMESTAMP</replace>
+      <replace>/images</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -477,11 +447,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/login.html" />
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/config/SpringSwaggerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/swagger/index.html" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/bean/Drivers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/mapper/drivers/DriverMapper.java" />
@@ -489,8 +457,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/mapper/spring-mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/controller/drivers/DriverController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/DriverService.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/impl/DriverServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/Contails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/service/menu/MenuService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/service/menu/impl/MenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4J.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/NavTal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sansan/controller/menu/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/nav.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html" />
       </list>
     </option>
@@ -571,8 +551,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -622,36 +600,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
@@ -661,46 +611,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sansan" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sansan" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
@@ -722,7 +632,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="beginner_admin" type="462c0819:PsiDirectoryNode" />
+              <item name="layuicms2.0" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
@@ -739,19 +649,40 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="businfosystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="businfosystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550037112288" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556616438646" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -760,12 +691,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp" />
-      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp\WEB-INF\swagger" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ProjectWorkPlace\businfosystem\src\main\java\com\sansan\mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp\WEB-INF\static" />
+      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp\WEB-INF\html" />
+      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp\WEB-INF" />
+      <recent name="D:\ProjectWorkPlace\businfosystem\src\main\webapp" />
+      <recent name="D:\ProjectWorkPlace\businfosystem\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -906,7 +840,8 @@
       <workItem from="1548743700792" duration="1271000" />
       <workItem from="1550024235326" duration="5452000" />
       <workItem from="1556262606525" duration="2130000" />
-      <workItem from="1556519140280" duration="3495000" />
+      <workItem from="1556519140280" duration="3955000" />
+      <workItem from="1556607157041" duration="9233000" />
     </task>
     <task id="LOCAL-00001" summary="登录验证">
       <created>1544165536684</created>
@@ -929,11 +864,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550037106616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交关于layUI的页面操作相关文件">
+      <created>1556522830344</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556522830344</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22219000" />
+    <option name="totallyTimeSpent" value="31912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -951,16 +893,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.547421" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35666665" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.67487687" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924242" weight="0.3294509" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924242" weight="0.32840723" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Problems" order="11" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32840723" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
@@ -981,6 +923,49 @@
       <window_info anchor="right" id="CDI" order="11" />
       <window_info anchor="right" id="Bean Validation" order="12" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24432677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.547421" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31527093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49924242" weight="0.32840723" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32840723" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.5007576" side_tool="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.3294509" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="JSF" order="6" />
+      <window_info anchor="right" id="BPMNPalette" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="CDI" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -993,64 +978,10 @@
     <MESSAGE value="添加主页画板编辑窗口" />
     <MESSAGE value="添加swagger接口文档管理工具" />
     <MESSAGE value="添加驾驶员列表查询接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加驾驶员列表查询接口" />
+    <MESSAGE value="提交关于layUI的页面操作相关文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交关于layUI的页面操作相关文件" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/SystemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/register.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/impl/SystemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/bean/system/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4J.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/system/SsoLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/system/SystemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/bean/Drivers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
@@ -1058,54 +989,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="30" column="58" lean-forward="true" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/user/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/drivers/DriverController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/DriverMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/DriverService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,30 +1010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/impl/DriverServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/DriverMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1156,52 +1019,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
+        <state relative-caret-position="912">
           <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/.vs/config/applicationhost.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="247">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/swagger/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1317">
-          <caret line="218" column="49" selection-start-line="218" selection-start-column="49" selection-end-line="218" selection-end-column="49" />
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="741">
           <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1209,10 +1048,361 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/spring-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#1660#1673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/table.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/navbar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="80" column="18" lean-forward="true" selection-start-line="78" selection-start-column="12" selection-end-line="80" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/datas/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-end-line="92" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/beginner_admin/BeginnerAdmin/js/tab.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/DriverService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/DriverMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/DriverMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Filter/SimpleCORSFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/drivers/DriverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/drivers/impl/DriverServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/menu/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="320" column="19" lean-forward="true" selection-start-line="320" selection-start-column="19" selection-end-line="320" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        <state relative-caret-position="480">
+          <caret line="65" column="18" lean-forward="true" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE-sources.jar!/org/springframework/web/util/Log4jConfigListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4J.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4J.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/system/SystemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="28" column="114" selection-start-line="28" selection-start-column="82" selection-end-line="28" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/service/menu/MenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/Contails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1316#1317#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+            <element signature="e#1629#1630#0" expanded="true" />
+            <element signature="e#1662#1663#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/bean/menu/NavTal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/controller/menu/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sansan/mapper/MenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/admin/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/layuicms2.0/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/layuicms2.0/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="130" column="62" lean-forward="true" selection-start-line="129" selection-start-column="4" selection-end-line="130" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="78" column="37" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="97" column="2" lean-forward="true" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
         </state>
       </provider>
     </entry>

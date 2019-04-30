@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sansan.mapper.MenuMapper">
+    <resultMap id="MenuList" type="com.sansan.bean.menu.Menu">
+        <id property="id" column="id" jdbcType="INTEGER" />
+        <result property="menuName" column="menu_name" jdbcType="VARCHAR" />
+        <result property="parentId" column="parent_id" jdbcType="INTEGER" />
+        <result property="grade" column="grade" jdbcType="INTEGER" />
+        <result property="href" column="href" jdbcType="VARCHAR" />
+        <result property="createTime" column="create_time" jdbcType="TIMESTAMP" />
+        <result property="lastUpdateTime" column="last_update_time" jdbcType="TIMESTAMP" />
+        <result property="icon" column="icon" jdbcType="VARCHAR" />
+        <result property="delStatus" column="del_status" jdbcType="INTEGER" />
+    </resultMap>
+    <select id="getMenuList" parameterType="map" resultMap="MenuList">
+		SELECT
+		id,
+		menu_name,
+		parent_id,
+		grade,
+		href,
+		create_time,
+		last_update_time,
+		icon,
+		del_status
+		FROM menu
+		WHERE 1=1
+		<if test="#{grade} != null">
+          AND grade = #{grade, jdbcType=INTEGER}
+        </if>
+        <if test="#{parentId} != null">
+          AND parent_id = #{parentId, jdbcType=INTEGER}
+        </if>
+	</select>
+</mapper>
