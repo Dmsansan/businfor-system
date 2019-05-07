@@ -3,7 +3,10 @@
   <groupId>com.sansan</groupId>
   <artifactId>BusInfoSystem</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+    <modules>
+        <module>admin-server</module>
+    </modules>
+    <packaging>pom</packaging>
    
   <build>  
 	<finalName>faq</finalName>  

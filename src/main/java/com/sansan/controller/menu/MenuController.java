@@ -12,7 +12,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * create by siss 2019-4-30 16:53
@@ -25,7 +27,11 @@ public class MenuController {
     @Autowired
     private MenuService menuService;
 
-    @RequestMapping(value = "/leftNavMenu", method = RequestMethod.POST, produces = Contails.APPLICATION_JSON_VALUE)
+    /**
+     * 首页左侧菜单导航
+     * @return
+     */
+    @RequestMapping(value = "/leftNavMenu", method = RequestMethod.GET, produces = Contails.APPLICATION_JSON_VALUE)
     public ResponseEntity<?> leftNavMenu(){
         int grade = 1;
         int parentId = 0;
@@ -39,7 +45,10 @@ public class MenuController {
             navTal.setSpread("true");
             navTals.add(navTal);
         }
-        return new ResponseEntity<>(navTals, HttpStatus.OK);
+
+        Map<String, Object> res =new HashMap<>();
+        res.put("contentManagement", navTals);
+        return new ResponseEntity<>(res, HttpStatus.OK);
     }
 
 }
