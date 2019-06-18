@@ -59,10 +59,7 @@
     <!-- 启用基于Spring的注解 -->
     <context:annotation-config/>
     <!-- 静态资源处理 -->
-    <nvc:resources mapping="/**" location="/WEB-INF/static/"/>
-    <mvc:resources mapping="/layui/**" location="/WEB-INF/static/layui/" />
-    <mvc:resources mapping="/frame/**" location="/WEB-INF/static/frame/" />
-    <mvc:resources mapping="/swagger/**" location="/WEB-INF/swagger/"/>
+    <mvc:resources mapping="/static/**" location="/WEB-INF/static/"/>
     <!-- 国际化配置 -->
     <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource"> 
         <property name="basename"> 
