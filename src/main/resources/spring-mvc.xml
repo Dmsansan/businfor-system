@@ -59,7 +59,7 @@
     <!-- 启用基于Spring的注解 -->
     <context:annotation-config/>
     <!-- 静态资源处理 -->
-    <mvc:resources mapping="/static/**" location="/WEB-INF/static/"/>
+    <mvc:resources mapping="/static/**" location="/static/"/>
     <!-- 国际化配置 -->
     <bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource"> 
         <property name="basename"> 
